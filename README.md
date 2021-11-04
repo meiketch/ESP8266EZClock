@@ -10,3 +10,4 @@ You should be able to find a binary for the esp8266 to just flash with Europe/Be
 Im working on this and if there is anything you miss or something, don´t hasitate to contact me directly on discord Neojunky#0815
 Props to the EZTimeLib and the TM1637
 
+Planned in the future to add a webserver, where you can change basic settings like time format and timezone.
